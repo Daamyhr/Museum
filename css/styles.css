@@ -1,2 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
+body{   margin:0 5px;
+}
+
+
+#wrapper
+{ 
+background-color:#abe9ff;
+        height:500px;}
+
+.container { width:950px;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+
+.image{
+ height: 234px; width: 218px; 
+ float: left;
+margin-top:10px;
+
+margin-right: 19px;}
